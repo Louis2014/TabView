@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TabContainerViewStyle">
+        <attr name="tabTextSize" format="dimension" />
+        <attr name="tabTextColor" format="color" />
+        <attr name="selectedTextColor" format="color" />
+        <attr name="drawablePadding" format="dimension" />
+        <attr name="iconHeight" format="dimension" />
+        <attr name="iconWidth" format="dimension" />
+        <attr name="divideLineColor" format="color" />
+        <attr name="divideLineHeight" format="dimension" />
+    </declare-styleable>
+</resources>
