@@ -6,7 +6,7 @@
 >针对APP的首页出现频次比较高的界面，封装了底部导航栏切换效果的工具类，使用非常方便简洁。
 
 #### Demo展示
-![](https://raw.githubusercontent.com/Louis2014/MarkdownPhotos/master/photos/tabview.gif)
+[demo gif](https://raw.githubusercontent.com/Louis2014/MarkdownPhotos/master/photos/tabview.gif)
 
 ### 一、功能介绍
        1.支持滑动切换栏目。
